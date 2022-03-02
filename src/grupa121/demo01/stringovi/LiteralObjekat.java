@@ -1,24 +1,5 @@
 package grupa121.demo01.stringovi;
 
-/**
- * Ispis:
- * a: abc (korisceno =)
- * b: abc (korisceno =)
- * c: abc (korisceno new String())
- * d: abc (korisceno new String())
- * e: ABC
- * f: _ABC_ (razmaci zamenjeni znakom '_')
- * a == b: true
- * a == c: false
- * a == d: false
- * b == c: false
- * b == d: false
- * c == d: false
- * c.equals(d): true
- * c.equals(e): false
- * c.equalsIgnoreCase(e): true
- * e.trim().equals(f): false
- */
 public class LiteralObjekat {
     public static void main(String[] args) {
         String a = "abc";
