@@ -1,4 +1,4 @@
-package grupa121.demo01.stringovi;
+package oop_demo2021.grupa121.demo01.stringovi;
 
 public class LiteralObjekat {
     public static void main(String[] args) {
