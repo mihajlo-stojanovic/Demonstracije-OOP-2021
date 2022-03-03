@@ -32,6 +32,8 @@ public class LiteralObjekat {
         System.out.println(c.equals(e));
         System.out.print("c.equalsIgnoreCase(e): ");
         System.out.println(c.equalsIgnoreCase(e));
+        System.out.print("f.trim(): ");
+        System.out.println(f.trim());
         System.out.print("e.trim().equals(f): ");
         System.out.println(e.trim().equals(f));
     }
