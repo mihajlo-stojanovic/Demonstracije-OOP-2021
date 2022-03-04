@@ -14,5 +14,4 @@ c == d: false
 c.equals(d): true
 c.equals(e): false
 c.equalsIgnoreCase(e): true
-f.trim(): ABC
 e.trim().equals(f): false
